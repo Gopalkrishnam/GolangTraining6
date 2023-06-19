@@ -1,0 +1,10 @@
+Declaring array
+Initializing array
+Copy val/ref
+Comparison
+range
+len
+iterating using range and len
+... elipses
+
+Initializing array at specific index
