@@ -8,4 +8,5 @@ func main() {
 	for i, v := range array {
 		fmt.Println(i, v)
 	}
+
 }

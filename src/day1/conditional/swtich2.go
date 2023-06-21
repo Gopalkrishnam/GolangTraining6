@@ -15,6 +15,7 @@ func main() {
 		fmt.Println("Both are equal")
 	case a == 99:
 		fmt.Println("a is equal to 99")
+		
 	case b == "hello":
 		fmt.Println("b is hello")
 	}

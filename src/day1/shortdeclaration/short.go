@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 )
- global := test
+
 func main() {
 
 	fmt.Println("Short declaration operator :=")

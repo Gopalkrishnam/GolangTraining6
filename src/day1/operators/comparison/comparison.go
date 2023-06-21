@@ -26,7 +26,4 @@ func main() {
 	c = a >= b
 	fmt.Println(c)
 
-	var x, y = 10, 1.1
-
-	c = x != y
 }

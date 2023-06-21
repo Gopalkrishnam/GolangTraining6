@@ -1,0 +1,15 @@
+
+
+Printer
+
+exposes a interface Print, PageSetup and Priview
+
+Doc -> Implement PrinterInterface
+
+SpreadSheet -> Implement PrinterInterface
+
+main(){
+    print Doc
+    print soreadsheet
+    
+}
