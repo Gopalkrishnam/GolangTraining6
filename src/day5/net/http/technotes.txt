@@ -1,0 +1,12 @@
+// web server works on http protocol
+
+// Get
+// Post
+// Put
+// Delete
+
+// routes
+
+www.mavenir.com/home // all http methods
+www.mavenir.com/contactus
+www.mavenir.com/enquiry

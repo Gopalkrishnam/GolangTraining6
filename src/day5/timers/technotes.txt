@@ -1,0 +1,35 @@
+Requirement:
+Is to store timers and expire timers efficiently
+Timer interval will be in seconds
+Timer will not support repeating timers
+Timers can be cancelled
+
+{1,2,3,4,5,6,7,8,9,10}
+
+1 -> timer
+2 -> Timer
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+5
+6
+1
+rbtree
+uuid
+
+StartsTimer -> timer_uuid 
+
+We will store timers in rbtree
+
+We will store unix time for each of the timers
+
+We will have one more tree to  key timerID value as timer structure
+
